@@ -50,4 +50,4 @@
 
 ---
 
-<p align="center"><i>"Knowledge is like a paradox. The more one understands the more one realizes the vastness of their ignorance. - **Viktor**"</i></p>
+<p align="center"><i>"Knowledge is like a paradox. The more one understands the more one realizes the vastness of their ignorance. - Viktor"</i></p>
