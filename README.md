@@ -6,9 +6,9 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-🎓 I'm currently studying at **Cebu Institute of Technology – University**, diving deep into:
+I'm currently studying at **Cebu Institute of Technology – University**, diving deep into:
 
 - 🌐 Web Development (HTML, CSS, JavaScript)
 - ☕ Object-Oriented Programming with Java
@@ -19,14 +19,14 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ralph-lawrence-s-santillan-750537294/))
 
