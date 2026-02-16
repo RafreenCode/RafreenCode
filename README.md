@@ -26,24 +26,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafreenCode&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafreenCode&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
-
-### 🏆 Achievements & Initiatives
-
-- 🏅 Top 8 GEAR Awards 2024–2025
-- 🧠 Best Speakers in Debating Tournaments
-- 🎤 Chief Organizer – **TINGOG**, **TechEd**
-- 🗣️ Host & Resource Speaker – Campus events on **digital safety** and **public speaking**
-
----
-
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ralph-lawrence-s-santillan-750537294/))
