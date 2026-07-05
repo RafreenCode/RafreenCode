@@ -10,12 +10,12 @@
 
 I'm currently studying at **Cebu Institute of Technology – University**, diving deep into:
 
-- 🌐 Web Development (HTML, CSS, JavaScript)
-- ☕ Object-Oriented Programming with Java
-- 💻 Systems Programming in C
-- 👨‍🏫 Public Speaking (Debate Society and CIT-U Global Citizenship Education)
+- Web Development (HTML, CSS, JavaScript)
+- Object-Oriented Programming with Java
+- Systems Programming in C
+- Public Speaking (Debate Society and CIT-U Global Citizenship Education)
 
-🗣️ I also serve as the **Prime Minister** of the CIT-U Elite Debate Society and lead community projects that empower youth through technology and critical thinking.
+I also serve as the **Prime Minister** of the CIT-U Elite Debate Society and lead community projects that empower youth through technology and critical thinking.
 
 ---
 
